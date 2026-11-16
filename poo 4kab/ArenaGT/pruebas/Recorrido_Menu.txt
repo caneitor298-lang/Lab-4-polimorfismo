@@ -1,0 +1,344 @@
+ENTRADA UTILIZADA
+12
+11
+FS01
+13
+3
+FP
+2
+1
+P09
+Equipo Nuevo
+Empresa Nueva
+2
+NUEVO
+Copa Nueva
+RL
+4
+NUEVO
+P01
+4
+NUEVO
+P03
+4
+NUEVO
+P05
+5
+NUEVO
+6
+NUEVO-C1
+2027-03-01
+9
+Pista Nueva
+7
+NUEVO
+NUEVO-C1
+50
+51
+DQ
+11
+NUEVO
+12
+0
+
+SALIDA OBTENIDA
+ARENA GT - Organización de torneos
+Los datos se guardan mientras el programa está abierto.
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: 
+INGRESOS POR INSCRIPCIONES
+Fútbol sala: Q0.00
+Fútbol sala con penales: Q0.00
+Baloncesto: Q0.00
+Voleibol: Q0.00
+Relevos: Q0.00
+Total de ingresos: Q0.00
+PREMIOS ENTREGADOS DURANTE ESTA EJECUCIÓN
+No hay entregas registradas.
+Total de premios entregados: Q0.00
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: Código del torneo: 
+TABLA FS01 - Copa de ejemplo FS01
+Código Participante              Puntos Diferencia  Victorias
+P05    Quetzal Uno                    4          1          1
+P03    Volcán Azul                    4          0          1
+P04    Volcán Rojo                    4         -1          1
+P01    Ceiba Norte                    3          0          1
+P02    Ceiba Sur                      3          0          0
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: 
+RANKING DE EMPRESAS
+Ceiba: 45 puntos
+Volcán: 34 puntos
+Quetzal: 11 puntos
+Jaguar: 3 puntos
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: FS - Fútbol sala | 4 a 8 participantes | Q600.00
+FP - Fútbol sala con penales | 4 a 8 participantes | Q750.00
+BC - Baloncesto | 4 a 6 participantes | Q500.00
+VB - Voleibol | 4 a 6 participantes | Q450.00
+RL - Relevos | 3 a 8 participantes | Q300.00
+Código de disciplina: Cantidad de participantes: Cotización: Q1500.00
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: Código: Nombre: Empresa: Participante registrado.
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: FS - Fútbol sala | 4 a 8 participantes | Q600.00
+FP - Fútbol sala con penales | 4 a 8 participantes | Q750.00
+BC - Baloncesto | 4 a 6 participantes | Q500.00
+VB - Voleibol | 4 a 6 participantes | Q450.00
+RL - Relevos | 3 a 8 participantes | Q300.00
+Código del torneo: Nombre del torneo: Código de disciplina: Torneo creado. Ya puede inscribir participantes.
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: Código del torneo: Código del participante: Inscripción aceptada y cuota cobrada.
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: Código del torneo: Código del participante: Inscripción aceptada y cuota cobrada.
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: Código del torneo: Código del participante: Inscripción aceptada y cuota cobrada.
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: Código del torneo: Inscripciones cerradas. Estos son los eventos generados:
+NUEVO-C1 | Carrera | Sin programar | Sin programar
+  Ceiba Norte / Volcán Azul / Quetzal Uno
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: Código del evento: Fecha (AAAA-MM-DD): Hora completa (0 a 23): Sede: Evento programado.
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: Código del torneo: Código del evento: Participantes:
+  P01 - Ceiba Norte (Ceiba)
+  P03 - Volcán Azul (Volcán)
+  P05 - Quetzal Uno (Quetzal)
+Marcadores: enteros no negativos. Tiempo: segundos con punto decimal o DQ.
+Si no hubo empate en goles, deje vacíos los campos de penales.
+P01.tiempo: P03.tiempo: P05.tiempo: Resultado guardado.
+El torneo finalizó. Campeón: Ceiba Norte
+Premio entregado: Q450.00
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: Código del torneo: 
+TABLA NUEVO - Copa Nueva
+Código Participante              Puntos Diferencia  Victorias
+P01    Ceiba Norte                   10          0          1
+P03    Volcán Azul                    8          0          0
+P05    Quetzal Uno                    0          0          0
+Campeón: Ceiba Norte | Premio calculado: Q450.00
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: 
+INGRESOS POR INSCRIPCIONES
+Fútbol sala: Q0.00
+Fútbol sala con penales: Q0.00
+Baloncesto: Q0.00
+Voleibol: Q0.00
+Relevos: Q900.00
+Total de ingresos: Q900.00
+PREMIOS ENTREGADOS DURANTE ESTA EJECUCIÓN
+NUEVO | Ceiba Norte | Q450.00
+Total de premios entregados: Q450.00
+
+1. Registrar participante
+2. Crear torneo
+3. Cotizar inscripción
+4. Inscribir participante
+5. Cerrar inscripciones
+6. Programar o reprogramar evento
+7. Registrar resultado
+8. Consultar torneos y eventos
+9. Consultar participantes
+10. Consultar calendario
+11. Tabla de posiciones
+12. Ingresos y premios
+13. Ranking de empresas
+0. Salir
+Opción: Hasta luego.

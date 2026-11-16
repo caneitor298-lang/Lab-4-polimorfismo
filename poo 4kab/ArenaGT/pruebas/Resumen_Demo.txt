@@ -1,0 +1,152 @@
+
+FS01 - Copa de ejemplo FS01 | Fútbol sala | En juego | Inscritos: 5
+FS01-E1 | Encuentro | 2026-12-01 08:00 | Sede Central | Programado
+  Ceiba Norte / Ceiba Sur
+FS01-E2 | Encuentro | 2026-12-01 09:00 | Sede Central | Finalizado
+  Ceiba Norte / Volcán Azul
+  Resultado: {P01.goles=2, P03.goles=0}
+FS01-E3 | Encuentro | 2026-12-01 10:00 | Sede Central | Finalizado
+  Ceiba Norte / Volcán Rojo
+  Resultado: {P01.goles=0, P04.goles=1}
+FS01-E4 | Encuentro | 2026-12-01 11:00 | Sede Central | Finalizado
+  Ceiba Norte / Quetzal Uno
+  Resultado: {P01.goles=0, P05.goles=1}
+FS01-E5 | Encuentro | 2026-12-01 12:00 | Sede Central | Finalizado
+  Ceiba Sur / Volcán Azul
+  Resultado: {P02.goles=0, P03.goles=0}
+FS01-E6 | Encuentro | 2026-12-01 13:00 | Sede Central | Finalizado
+  Ceiba Sur / Volcán Rojo
+  Resultado: {P02.goles=0, P04.goles=0}
+FS01-E7 | Encuentro | 2026-12-01 14:00 | Sede Central | Finalizado
+  Ceiba Sur / Quetzal Uno
+  Resultado: {P02.goles=0, P05.goles=0}
+FS01-E8 | Encuentro | 2026-12-01 15:00 | Sede Central | Finalizado
+  Volcán Azul / Volcán Rojo
+  Resultado: {P03.goles=2, P04.goles=0}
+FS01-E9 | Encuentro | 2026-12-01 16:00 | Sede Central | Programado
+  Volcán Azul / Quetzal Uno
+FS01-E10 | Encuentro | 2026-12-01 17:00 | Sede Central | Programado
+  Volcán Rojo / Quetzal Uno
+
+FP01 - Copa de ejemplo FP01 | Fútbol sala con penales | En juego | Inscritos: 4
+FP01-E1 | Encuentro | 2026-12-01 18:00 | Sede Central | Finalizado
+  Ceiba Norte / Ceiba Sur
+  Resultado: {P01.goles=2, P02.goles=2, P01.penales=4, P02.penales=3}
+FP01-E2 | Encuentro | 2026-12-01 19:00 | Sede Central | Programado
+  Ceiba Norte / Volcán Azul
+FP01-E3 | Encuentro | 2026-12-01 20:00 | Sede Central | Programado
+  Ceiba Norte / Volcán Rojo
+FP01-E4 | Encuentro | 2026-12-01 21:00 | Sede Central | Programado
+  Ceiba Sur / Volcán Azul
+FP01-E5 | Encuentro | 2026-12-01 22:00 | Sede Central | Programado
+  Ceiba Sur / Volcán Rojo
+FP01-E6 | Encuentro | 2026-12-01 23:00 | Sede Central | Finalizado
+  Volcán Azul / Volcán Rojo
+  Resultado: {P03.goles=3, P04.goles=1}
+
+BC01 - Copa de ejemplo BC01 | Baloncesto | En juego | Inscritos: 4
+BC01-E1 | Encuentro | 2026-12-02 00:00 | Sede Central | Finalizado
+  Ceiba Norte / Ceiba Sur
+  Resultado: {P01.puntos=80, P02.puntos=75}
+BC01-E2 | Encuentro | 2026-12-02 01:00 | Sede Central | Programado
+  Ceiba Norte / Volcán Azul
+BC01-E3 | Encuentro | 2026-12-02 02:00 | Sede Central | Programado
+  Ceiba Norte / Volcán Rojo
+BC01-E4 | Encuentro | 2026-12-02 03:00 | Sede Central | Programado
+  Ceiba Sur / Volcán Azul
+BC01-E5 | Encuentro | 2026-12-02 04:00 | Sede Central | Programado
+  Ceiba Sur / Volcán Rojo
+BC01-E6 | Encuentro | 2026-12-02 05:00 | Sede Central | Programado
+  Volcán Azul / Volcán Rojo
+
+VB01 - Copa de ejemplo VB01 | Voleibol | En juego | Inscritos: 4
+VB01-E1 | Encuentro | 2026-12-02 06:00 | Sede Central | Finalizado
+  Ceiba Norte / Ceiba Sur
+  Resultado: {P01.sets=3, P02.sets=0}
+VB01-E2 | Encuentro | 2026-12-02 07:00 | Sede Central | Finalizado
+  Ceiba Norte / Volcán Azul
+  Resultado: {P01.sets=3, P03.sets=2}
+VB01-E3 | Encuentro | 2026-12-02 08:00 | Sede Central | Programado
+  Ceiba Norte / Volcán Rojo
+VB01-E4 | Encuentro | 2026-12-02 09:00 | Sede Central | Programado
+  Ceiba Sur / Volcán Azul
+VB01-E5 | Encuentro | 2026-12-02 10:00 | Sede Central | Programado
+  Ceiba Sur / Volcán Rojo
+VB01-E6 | Encuentro | 2026-12-02 11:00 | Sede Central | Finalizado
+  Volcán Azul / Volcán Rojo
+  Resultado: {P03.sets=3, P04.sets=1}
+
+RL01 - Copa de ejemplo RL01 | Relevos | Finalizado | Inscritos: 8
+RL01-C1 | Carrera | 2026-12-02 12:00 | Sede Central | Finalizado
+  Ceiba Norte / Ceiba Sur / Volcán Azul / Volcán Rojo / Quetzal Uno / Quetzal Dos / Jaguar Centro / Jaguar Este
+  Resultado: {P01.tiempo=50.1, P02.tiempo=51.9, P03.tiempo=52.4, P04.tiempo=55.0, P05.tiempo=56.0, P06.tiempo=57.0, P07.tiempo=58.0, P08.tiempo=59.0}
+
+RL02 - Copa de ejemplo RL02 | Relevos | Finalizado | Inscritos: 3
+RL02-C1 | Carrera | 2026-12-02 13:00 | Sede Central | Finalizado
+  Ceiba Norte / Ceiba Sur / Volcán Azul
+  Resultado: {P01.tiempo=60.0, P02.tiempo=DQ, P03.tiempo=62.0}
+
+TABLA FS01 - Copa de ejemplo FS01
+Código Participante              Puntos Diferencia  Victorias
+P05    Quetzal Uno                    4          1          1
+P03    Volcán Azul                    4          0          1
+P04    Volcán Rojo                    4         -1          1
+P01    Ceiba Norte                    3          0          1
+P02    Ceiba Sur                      3          0          0
+
+TABLA FP01 - Copa de ejemplo FP01
+Código Participante              Puntos Diferencia  Victorias
+P03    Volcán Azul                    3          2          1
+P01    Ceiba Norte                    2          0          1
+P02    Ceiba Sur                      1          0          0
+P04    Volcán Rojo                    0         -2          0
+
+TABLA BC01 - Copa de ejemplo BC01
+Código Participante              Puntos Diferencia  Victorias
+P01    Ceiba Norte                    2          5          1
+P02    Ceiba Sur                      1         -5          0
+P03    Volcán Azul                    0          0          0
+P04    Volcán Rojo                    0          0          0
+
+TABLA VB01 - Copa de ejemplo VB01
+Código Participante              Puntos Diferencia  Victorias
+P01    Ceiba Norte                    5          4          2
+P03    Volcán Azul                    4          1          1
+P04    Volcán Rojo                    0         -2          0
+P02    Ceiba Sur                      0         -3          0
+
+TABLA RL01 - Copa de ejemplo RL01
+Código Participante              Puntos Diferencia  Victorias
+P01    Ceiba Norte                   10          0          1
+P02    Ceiba Sur                      8          0          0
+P03    Volcán Azul                    6          0          0
+P04    Volcán Rojo                    5          0          0
+P05    Quetzal Uno                    4          0          0
+P06    Quetzal Dos                    3          0          0
+P07    Jaguar Centro                  2          0          0
+P08    Jaguar Este                    1          0          0
+Campeón: Ceiba Norte | Premio calculado: Q1200.00
+
+TABLA RL02 - Copa de ejemplo RL02
+Código Participante              Puntos Diferencia  Victorias
+P01    Ceiba Norte                   10          0          1
+P03    Volcán Azul                    8          0          0
+P02    Ceiba Sur                      0          0          0
+Campeón: Ceiba Norte | Premio calculado: Q450.00
+
+INGRESOS POR INSCRIPCIONES
+Fútbol sala: Q0.00
+Fútbol sala con penales: Q0.00
+Baloncesto: Q0.00
+Voleibol: Q0.00
+Relevos: Q0.00
+Total de ingresos: Q0.00
+PREMIOS ENTREGADOS DURANTE ESTA EJECUCIÓN
+No hay entregas registradas.
+Total de premios entregados: Q0.00
+
+RANKING DE EMPRESAS
+Ceiba: 45 puntos
+Volcán: 34 puntos
+Quetzal: 11 puntos
+Jaguar: 3 puntos
